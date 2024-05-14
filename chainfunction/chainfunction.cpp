@@ -12,9 +12,9 @@ public:
         return *this;       // chain function
     }
     string getJudul()
-        {
-            return this->judul;
-        }
+    {
+        return this->judul;
+    }
 }bukunya;
 int main()
 {
